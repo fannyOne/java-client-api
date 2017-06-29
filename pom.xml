@@ -208,6 +208,18 @@
         <artifactId>xml-apis</artifactId>
         <version>1.4.01</version>
       </dependency>
+
+	<dependency>
+		<groupId>com.offbytwo.jenkins</groupId>
+		<artifactId>jenkins-client</artifactId>
+		<version>0.3.7</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>org.jenkins-ci.lib</groupId>
+		<artifactId>java-client-api</artifactId>
+		<version>0.4.0</version>
+	</dependency>
     </dependencies>
   </dependencyManagement>
 
